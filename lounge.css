@@ -1,0 +1,76 @@
+h1, h2 {
+        font-family:serif;
+        color: green;
+	    padding:25px;25px;20px;20px;
+	
+}
+h1 {
+    border-bottom: 1px solid black;
+	font-size:200%;
+}
+p {
+    color: maroon ;
+}
+ body {
+        background-color: #d2b48c;
+     
+        padding: 20px 20px 20px 20px;
+        font-family: Trebuchet MS,sans-serif;
+        font-size: 18px;
+	    line-height:1.5em;
+        margin: 10% ;
+
+    
+    }
+    p.greentea {
+        color: deepskyblue;
+	
+    }
+    .raspberry{
+        color: darkolivegreen;
+    }
+    
+    .word{
+       margin-left: 30px;
+       margin-right: 300px;
+    
+    }
+
+#elixir{
+    line-height:1.2em; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: seagreen solid 1px;
+    width: 200px;
+    padding:0px 20px ;
+    text-align: center;
+ 
+    margin-right: 1px;
+    float: right;
+ 
+
+    }
+
+#elixir h2 {
+    background-image: url(images/p415.jpg);
+    background-repeat:repeat;
+    line-height:1.9em;
+    font-size: 1.2em;
+
+
+}
+#elixir h3{
+    color: springgreen;
+
+}
+#footer {
+    font-size :50%;
+}
+#footer a:link{
+    color:green;
+}
+#footer a:visted{
+    color:red;
+}
+#footer a:hover{
+    color:yellow;
+}

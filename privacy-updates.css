@@ -1,0 +1,42 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    line-height: 1.5em;
+    margin: auto 120px 20px 100px;
+
+
+}
+.zhengwen{
+    border-top: 1px solid black;
+
+}
+h1{
+     font-weight: lighter;
+     font-size: 280%
+}
+h2{
+    padding-left:-10px;
+    font-weight: lighter;
+    font-size: 150%;
+    padding-top: 20px;
+}
+a:link{
+    color: lightblue;
+    text-decoration: none;
+}
+a:hover{
+    color: dimgray;
+    text-decoration: none;
+
+}
+a:visited{
+    color: #675c47; 
+    text-decoration: none;  
+    border-bottom: thin dotted #675c47;
+}
+.footer{
+    margin:20px -120px 20px -100px;
+    background-color:lightgray;
+    text-align: center;
+    padding: 15px;
+}
