@@ -1,0 +1,35 @@
+
+#elixir{
+    line-height:1.2em; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: seagreen solid 1px;
+    width: 200px;
+    padding:0px 20px ;
+    text-align: center;
+    margin: auto;
+  
+
+    }
+#elixir h2 {
+    background-image: url(images/p415.jpg);
+    background-repeat:repeat;
+    line-height:1.9em;
+
+
+}
+#elixir h3{
+ color: springgreen;
+
+}
+#footer {
+    font-size :50%;
+}
+#footer a:link{
+color:green;
+}
+#footer a:visted{
+color:red;
+}
+#footer a:hover{
+color:yellow;
+}
